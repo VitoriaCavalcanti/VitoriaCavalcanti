@@ -62,14 +62,6 @@ Procuro aprender e contribuir com projetos que envolvam:
 - Ideias que resolvam problemas reais
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=VitoriaCavalcanti&show_icons=true&theme=transparent&title_color=2563EB&text_color=172033&icon_color=2563EB&border_color=d8e1ef" alt="Estatísticas do GitHub">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitoriaCavalcanti&layout=compact&theme=transparent&title_color=2563EB&text_color=172033&border_color=d8e1ef" alt="Linguagens mais usadas">
-</p>
-
 ---
 
 ## 📫 Como me encontrar
